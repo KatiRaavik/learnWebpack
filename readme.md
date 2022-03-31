@@ -1,3 +1,7 @@
+#install
+
+`npm i`
+
 # usage
 
 run dev server
@@ -11,3 +15,7 @@ dev build
 production build
 
 `npm run build`
+
+deploy to surge
+
+`npm run deploy`
